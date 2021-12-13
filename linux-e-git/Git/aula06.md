@@ -1,4 +1,4 @@
-# Aprofundando no Git I
+# Aprofundando no Git II
 
 Por fim, foram ensinados os últimos comandos e, além disto, foram tiradas dúvidas gerais a respeito de todo o módulo ao longo da aula. Outra parte importante foi a criação de conta e sincronização com um repositório remoto no **Github**. A seguir, mais comandos discutidos:
 
